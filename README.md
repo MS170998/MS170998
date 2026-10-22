@@ -25,7 +25,7 @@ Outside of work, I build small products for ordinary problems: a whiteboard that
 | :------ | :----------- | :------------- |
 | **[Hello Drawing](https://hellodrawing.com)** | A free, browser-first whiteboard. Open it, sketch, and export — no account, no upload, no friction. | React · TypeScript · Excalidraw · IndexedDB |
 | **[RealTimeNote](https://realtimenote.com)** | A shared note you open from a link and edit together, instantly. No account or install. | React · TypeScript · Cloudflare Workers |
-| **AgentSweep** | A native macOS app that shows what AI tools store on your Mac, so you can decide what to keep. | SwiftUI · Swift 6 · macOS |
+| **[AgentSweep](https://8080-agqu4klin73vwwocajlburtfcm.instabox.tech/)** | A native macOS app that shows what 26 AI tools store on your Mac, so you can decide what to keep. | SwiftUI · Swift 6 · macOS |
 
 More on my **[portfolio](https://mayank-singh.vercel.app)** →
 
